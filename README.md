@@ -25,9 +25,25 @@ This project analyzes tech store sales data using Python and Jupyter Notebook. I
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+## 📌 Insights Gained
+Here are some key business insights extracted from the data:
+
+- Top Sales Month: July saw the highest total sales, indicating a mid-year demand surge.
+
+- Best-Selling Products: A small group of items consistently drove the majority of revenue, showing strong product-market fit.
+
+- Sales by City: Cities like Toronto and Vancouver led in sales volume, highlighting key market hubs.
+
+- Peak Purchase Time: Most purchases happened between 12 PM to 3 PM, suggesting optimal times for marketing campaigns or promotions.
+
+- Bundling Opportunity: Frequently bought-together products reveal cross-sell opportunities.
+
+- These insights can help stakeholders make data-driven decisions around inventory planning, targeted advertising, and store operations.
+
 ## 🚀 Getting Started
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/tech-store-sales.git
    cd tech-store-sales
+
