@@ -29,15 +29,15 @@ This project analyzes tech store sales data using Python and Jupyter Notebook. I
 Here are some key business insights extracted from the data:
 
 - Top Sales Month:
-Highest sales occurred in December, likely due to holiday shopping spikes.
+December had the highest sales, likely driven by the holiday shopping season.
 - Best-Performing Cities:
-Major cities like San Francisco, Los Angeles, and New York City had the highest sales volumes.
-- Optimal Purchase Time:
-Most orders were placed between 11 AM and 1 PM, suggesting peak buying hours for customers.
+San Francisco, Los Angeles, and New York City generated the most revenue, indicating strong market presence.
+- Peak Purchase Time:
+Most orders were placed between 11 AM and 1 PM, identifying prime hours for targeted promotions.
 - Top-Selling Products:
-Products like Macbook Pro Laptop and iPhones had the highest number of orders.
+Certain products stood out in sales volume — useful for optimizing inventory and spotlighting in marketing campaigns.
 - Price vs Demand Insight:
-There is a negative correlation between product price and quantity sold — more expensive items sell less frequently, but generate higher revenue per unit.
+There’s a negative correlation between product price and quantity sold — higher-priced items sell less frequently but contribute significantly to revenue.
 
 ## 🚀 Getting Started
 
